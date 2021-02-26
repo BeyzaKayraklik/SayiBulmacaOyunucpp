@@ -1,0 +1,4 @@
+﻿  cppilesaibulmaca.cpp
+C:\Users\Beyza\source\repos\cppilesaibulmaca\cppilesaibulmaca\cppilesaibulmaca.cpp(21,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Beyza\source\repos\cppilesaibulmaca\cppilesaibulmaca\cppilesaibulmaca.cpp(12,6): warning C4101: 'TahminHak': unreferenced local variable
+  cppilesaibulmaca.vcxproj -> C:\Users\Beyza\source\repos\cppilesaibulmaca\Debug\cppilesaibulmaca.exe
